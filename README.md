@@ -135,7 +135,7 @@ Broot displays images in high resolution when the terminal supports Kitty's grap
 
 Just find the file you want to edit with a few keystrokes, type `:e`, then <kbd>enter</kbd>.
 
-You can add verbs or configure the existing ones; see [documentation](conf_file/#verbs-shortcuts-and-keys).
+You can add verbs or configure the existing ones; see [documentation](https://github.com/Canop/broot/blob/main/resources/default-conf/conf.hjson)).
 
 And you can add shortcuts, for example a <kbd>ctrl</kbd> sequence or a function key
 
